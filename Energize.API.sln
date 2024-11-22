@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Energize.API", "Energize.API\Energize.API.csproj", "{38809A43-FD14-4C74-8AE7-1995A5B0B5D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{49DDBCFB-D228-42E1-BE64-34AECE9C78BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{167509F6-7F1C-4F42-B7E3-7431E6A64263}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Energize.API.Domain", "Energize.API.Domain\Energize.API.Domain.csproj", "{0AFB1869-CAC9-4CD6-9FC0-C60755B97A8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{C670DF86-DD3B-477E-8669-EEC4B3D9808B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Energize.EnergiaRenovavel.Application", "Energize.EnergiaRenovavel.Application\Energize.EnergiaRenovavel.Application.csproj", "{0E2D54DF-F55C-4EEA-98FD-0209C3D0330D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infrastructure", "3 - Infrastructure", "{D76B91E6-881F-4048-A09A-8051C487CA7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Test", "4 - Test", "{A3CF2E31-5CC9-4175-9B5D-2E24D0A45CBE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Energize.EnergiaRenovavel.Data", "Energize.EnergiaRenovavel.Data\Energize.EnergiaRenovavel.Data.csproj", "{B80AB927-07C7-42AE-B10F-BAD67DFDB087}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Energize.EnergiaRenovavel.IoC", "Energize.EnergiaRenovavel.IoC\Energize.EnergiaRenovavel.IoC.csproj", "{2C3B055B-2BCA-48AF-B5D2-3B0E84F92011}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Energize.EnergiaRenovavel.Service", "Energize.EnergiaRenovavel.Service\Energize.EnergiaRenovavel.Service.csproj", "{C12ACF78-FABC-430C-8A03-9E2060C52F5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Energize.EnergiaRenovavel.Tests", "Energize.EnergiaRenovavel.Tests\Energize.EnergiaRenovavel.Tests.csproj", "{C717B256-54B7-40E6-B204-01095BC100FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38809A43-FD14-4C74-8AE7-1995A5B0B5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38809A43-FD14-4C74-8AE7-1995A5B0B5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38809A43-FD14-4C74-8AE7-1995A5B0B5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38809A43-FD14-4C74-8AE7-1995A5B0B5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AFB1869-CAC9-4CD6-9FC0-C60755B97A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFB1869-CAC9-4CD6-9FC0-C60755B97A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFB1869-CAC9-4CD6-9FC0-C60755B97A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFB1869-CAC9-4CD6-9FC0-C60755B97A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E2D54DF-F55C-4EEA-98FD-0209C3D0330D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2D54DF-F55C-4EEA-98FD-0209C3D0330D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2D54DF-F55C-4EEA-98FD-0209C3D0330D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2D54DF-F55C-4EEA-98FD-0209C3D0330D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80AB927-07C7-42AE-B10F-BAD67DFDB087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80AB927-07C7-42AE-B10F-BAD67DFDB087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80AB927-07C7-42AE-B10F-BAD67DFDB087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80AB927-07C7-42AE-B10F-BAD67DFDB087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C3B055B-2BCA-48AF-B5D2-3B0E84F92011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3B055B-2BCA-48AF-B5D2-3B0E84F92011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3B055B-2BCA-48AF-B5D2-3B0E84F92011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3B055B-2BCA-48AF-B5D2-3B0E84F92011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C12ACF78-FABC-430C-8A03-9E2060C52F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12ACF78-FABC-430C-8A03-9E2060C52F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12ACF78-FABC-430C-8A03-9E2060C52F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C12ACF78-FABC-430C-8A03-9E2060C52F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C717B256-54B7-40E6-B204-01095BC100FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C717B256-54B7-40E6-B204-01095BC100FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C717B256-54B7-40E6-B204-01095BC100FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C717B256-54B7-40E6-B204-01095BC100FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38809A43-FD14-4C74-8AE7-1995A5B0B5D7} = {49DDBCFB-D228-42E1-BE64-34AECE9C78BA}
+		{0AFB1869-CAC9-4CD6-9FC0-C60755B97A8D} = {167509F6-7F1C-4F42-B7E3-7431E6A64263}
+		{0E2D54DF-F55C-4EEA-98FD-0209C3D0330D} = {C670DF86-DD3B-477E-8669-EEC4B3D9808B}
+		{B80AB927-07C7-42AE-B10F-BAD67DFDB087} = {D76B91E6-881F-4048-A09A-8051C487CA7D}
+		{2C3B055B-2BCA-48AF-B5D2-3B0E84F92011} = {D76B91E6-881F-4048-A09A-8051C487CA7D}
+		{C12ACF78-FABC-430C-8A03-9E2060C52F5A} = {D76B91E6-881F-4048-A09A-8051C487CA7D}
+		{C717B256-54B7-40E6-B204-01095BC100FA} = {A3CF2E31-5CC9-4175-9B5D-2E24D0A45CBE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {232B6036-DBAA-4AD3-BB36-D3902D5411C9}
+	EndGlobalSection
+EndGlobal

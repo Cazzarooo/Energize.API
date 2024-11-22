@@ -1,0 +1,101 @@
+Nome,EnergiaRenovavel,AvaliacaoEnergiaRenovavel
+Nome,Solar, AvaliacaoProduto
+Daniela,Eólica,3.9
+Bruno,Hidrelétrica,2.9
+‘Igor,Biomassa,3.2
+Fernanda,Geotérmica,1.6
+Fernanda,Energia dos Oceanos, 5.
+Helena,Hidrogênio Verde,2.1
+Juliana,Solar,3.4
+Helena,Eólica,1.4
+Juliana,Hidrelétrica,1.3
+Fernanda,Biomassa,3.6
+Ana,Geotérmica,2.3
+‘Igor,Energia dos Oceanos,1.4
+Helena,Hidrogênio Verde,2.u4
+Carlos,Solar,2.6
+Juliana,Eólica,1.3
+Juliana,Hidrelétrica,2.4
+Daniela,Biomassa,1.1
+Daniela,Geotérmica,1.2
+Daniela,Energia dos Oceanos,2.9
+Fernanda,Hidrogênio Verde, 4.5
+Fernanda,Solar,3.6
+Helena,Eólica,1.6
+Daniela,Hidrelétrica,2.9
+Helena,Biomassa, 3.0]
+Bruno,Geotérmica, 2
+‘Ana,Energia dos Oceanos,2.9
+Bruno,Hidrogênio Verde,3.3
+Carlos,Solar,3.0
+‘Igor,Eólica,4.3
+‘Igor,Hidrelétrica, 4.
+‘Igor,Biomassa,2.7
+Bruno,Geotérmica, 44.8
+Fernanda,Energia dos Oceanos,2.2
+Eduardo,Hidrogênio Verde, 41.4
+Carlos,Solar,2.9
+‘Igor,Eólica,41.3
+‘Igor,Hidrelétrica,41.2
+Carlos,Biomassa, 4.3
+Gabriel,Geotérmica,4.7
+Carlos,Energia dos Oceanos,2.0
+Fernanda,Hidrogênio Verde,3.7
+Carlos,Solar,2.1
+Bruno,Eólica,1.3
+Carlos,Hidrelétrica,1.4
+Igor,Biomassa,1.1
+Gabriel,Geotérmica,3.3
+Bruno,Energia dos Oceanos,2.6
+Carlos,Hidrogênio Verde,3.5
+Igor,Solar,3.8
+Daniela,Eólica,3.0
+‘Igor,Hidrelétrica,3.4
+Nome,Biomassa, AvaliacaoProduto
+Daniela,Geotérmica,3.9
+Bruno,Energia dos Oceanos,2.9
+‘Igor,Hidrogênio Verde,3.2
+Fernanda,Solar,1.6
+Fernanda,Eólica, 5.
+Helena,Hidrelétrica,2.1
+Juliana,Biomassa,3.4
+Helena,Geotérmica,1.4
+Juliana,Energia dos Oceanos,1.3
+Fernanda,Hidrogênio Verde,3.6
+Ana,Solar,2.3
+‘Igor,Eólica,1.4
+Helena,Hidrelétrica,2.u4
+Carlos,Biomassa,2.6
+Juliana,Geotérmica,1.3
+Juliana,Energia dos Oceanos,2.4
+Daniela,Hidrogênio Verde,1.1
+Daniela,Solar,1.2
+Daniela,Eólica,2.9
+Fernanda,Hidrelétrica, 4.5
+Fernanda,Biomassa,3.6
+Helena,Geotérmica,1.6
+Daniela,Energia dos Oceanos,2.9
+Helena,Hidrogênio Verde, 3.0]
+Bruno,Solar, 2
+‘Ana,Eólica,2.9
+Bruno,Hidrelétrica,3.3
+Carlos,Biomassa,3.0
+‘Igor,Geotérmica,4.3
+‘Igor,Energia dos Oceanos, 4.
+‘Igor,Hidrogênio Verde,2.7
+Bruno,Solar, 44.8
+Fernanda,Eólica,2.2
+Eduardo,Hidrelétrica, 41.4
+Carlos,Biomassa,2.9
+‘Igor,Geotérmica,41.3
+‘Igor,Energia dos Oceanos,41.2
+Carlos,Hidrogênio Verde, 4.3
+Gabriel,Solar,4.7
+Carlos,Eólica,2.0
+Fernanda,Hidrelétrica,3.7
+Carlos,Biomassa,2.1
+Bruno,Geotérmica,1.3
+Carlos,Energia dos Oceanos,1.4
+Igor,Hidrogênio Verde,1.1
+Gabriel,Solar,3.3
+Bruno,Eólica,2.6

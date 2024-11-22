@@ -1,0 +1,6 @@
+@Energize.API_HostAddress = http://localhost:5072
+
+GET {{Energize.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

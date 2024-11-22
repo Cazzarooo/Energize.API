@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Energize.API.Domain\Energize.API.Domain.csproj" />
+    <ProjectReference Include="..\Energize.EnergiaRenovavel.Application\Energize.EnergiaRenovavel.Application.csproj" />
+    <ProjectReference Include="..\Energize.EnergiaRenovavel.Data\Energize.EnergiaRenovavel.Data.csproj" />
+    <ProjectReference Include="..\Energize.EnergiaRenovavel.Service\Energize.EnergiaRenovavel.Service.csproj" />
+  </ItemGroup>
+
+</Project>
