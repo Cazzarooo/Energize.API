@@ -32,7 +32,7 @@ namespace Energize.EnergiaRenovavel.Tests
         public void Adicionar_DeveAdicionarERetornarEnergiaRenovavelEntity()
         {
             // Arrange
-            var energiaRenovavel = new EnergiaRenovavelEntity { Nome = "Celular", Descricao = "Preto" };
+            var energiaRenovavel = new EnergiaRenovavelEntity { Nome = "Fernanda", Descricao = "Solar" };
 
             // Act
             var resultado = _energiaRenovavelRepository.SalvarDados(energiaRenovavel);
