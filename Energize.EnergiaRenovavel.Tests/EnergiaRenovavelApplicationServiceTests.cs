@@ -30,11 +30,11 @@ namespace Energize.EnergiaRenovavel.Tests
         {
             // Arrange
             var energiaRenovavelDtoMock = new Mock<IEnergiaRenovavelDto>();
-            energiaRenovavelDtoMock.Setup(c => c.Nome).Returns("Celular");
-            energiaRenovavelDtoMock.Setup(c => c.Descricao).Returns("Preto");
+            energiaRenovavelDtoMock.Setup(c => c.Nome).Returns("Fernanda");
+            energiaRenovavelDtoMock.Setup(c => c.Descricao).Returns("Solar");
 
 
-            var energiaRenovavelEsperado = new EnergiaRenovavelEntity { Nome = "Celular", Descricao = "Preto" };
+            var energiaRenovavelEsperado = new EnergiaRenovavelEntity { Nome = "Fernanda", Descricao = "Solar" };
 
             _repositoryMock.Setup(r => r.SalvarDados(It.IsAny<EnergiaRenovavelEntity>())).Returns(energiaRenovavelEsperado);
 
